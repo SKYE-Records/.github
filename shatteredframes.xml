@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MediaInfo
+    xmlns="https://mediaarea.net/mediainfo"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="https://mediaarea.net/mediainfo https://mediaarea.net/mediainfo/mediainfo_2_0.xsd"
+    version="2.0">
+<creatingLibrary version="25.09" url="https://mediaarea.net/MediaInfo">MediaInfoLib</creatingLibrary>
+<media ref="ShatteredFrames.flac">
+<track type="General">
+<AudioCount>1</AudioCount>
+<ImageCount>1</ImageCount>
+<FileExtension>flac</FileExtension>
+<Format>FLAC</Format>
+<FileSize>42804506</FileSize>
+<Duration>183.830</Duration>
+<OverallBitRate_Mode>VBR</OverallBitRate_Mode>
+<OverallBitRate>1862787</OverallBitRate>
+<StreamSize>2286</StreamSize>
+<Title>Shattered Frames</Title>
+<Title_More>Original</Title_More>
+<Album>Shattered Frames</Album>
+<Track>Shattered Frames</Track>
+<Track_More>Original</Track_More>
+<Grouping>Bhadz</Grouping>
+<Performer>Bhadz</Performer>
+<Lyricist>Bhadz</Lyricist>
+<Producer>Bhadz</Producer>
+<RemixedBy>Bhadz</RemixedBy>
+<Publisher>Bhadz</Publisher>
+<Label>Bhadz / Skye / SKYE Records</Label>
+<Genre>Rock</Genre>
+<Released_Date>2025-09-16</Released_Date>
+<Recorded_Date>2025</Recorded_Date>
+<Recorded_Location>Philippines</Recorded_Location>
+<ISRC>QZHTQ2500250</ISRC>
+<Copyright>2025 Bhadz</Copyright>
+<TermsOfUse>M003AW</TermsOfUse>
+<Cover>Yes</Cover>
+<Cover_Type>Cover</Cover_Type>
+<Cover_Mime>image/jpeg</Cover_Mime>
+<Lyrics>[ti:Shattered Frames] / [ar:Bhadz] / [al:Shattered Frames] / [re:Created by Bhadz][ve:1] /  / [length:03:03.830] / [00:05.287]Your words cut deep like jagged glass / [00:08.276]Left me bleeding on the floor don&apos;t ask / [00:11.484]I built a bridge from broken bones / [00:14.480]You lit a match now it&apos;s ashes stones / [00:18.210]Do you see it / [00:21.446]Do you feel it / [00:24.571]The wreckage in my chest / [00:29.545]Shattered Frames, all that&apos;s left of us / [00:33.925]Memories crumbling to dust / [00:41.931]Shattered Frames, hanging on my wall / [00:46.167]Prove that we were nothing at all / [00:57.541]The echoes scream inside my head / [01:00.613]Your voice still wakes the living dead / [01:03.666]Every promise was a loaded gun / [01:06.202]You pulled the trigger, thought it&apos;d be fun / [01:09.685]Screaming out, I don&apos;t need you / [01:12.759]Burning down, I won&apos;t be you / [01:15.725]Every lie you told, I swallowed whole / [01:18.283]But now I&apos;m spitting back the soul / [01:22.042]Shattered Frames, all that&apos;s left of us / [01:26.175]Memories crumbling to dust / [01:34.126]Shattered Frames, hanging on my wall / [01:38.504]Prove that we were nothing at all / [01:41.522]Though its nothing were nothing at all / [02:08.192]The echoes scream inside my head / [02:11.382]Your voice still wakes the living dead / [02:14.592]Every promise was a loaded gun / [02:16.991]You pulled the trigger, thought it&apos;d be fun / [02:20.229]Screaming out, I don&apos;t need you / [02:23.313]Burning down, I won&apos;t be you / [02:26.488]Every lie you told, I swallowed whole / [02:29.110]But now I&apos;m spitting back the soul / [02:32.871]Shattered Frames, all that&apos;s left of us / [02:36.997]Memories crumbling to dust / [02:45.002]Shattered Frames, hanging on my wall / [02:49.292]Prove that we were nothing at all / [02:52.247]Though its nothing were nothing at all</Lyrics>
+<Comment>Bhadz - Shattered Frames</Comment>
+<extra>
+<Album_Performer>Bhadz</Album_Performer>
+<Part_Position_Total>1</Part_Position_Total>
+<Track_Position>1 / 1</Track_Position>
+<Track_Position_Total>1</Track_Position_Total>
+<Original_Album>Shattered Frames</Original_Album>
+<Original_Performer>Bhadz</Original_Performer>
+<Original_Released_Date>2025</Original_Released_Date>
+<Media_Type> Audio</Media_Type>
+<Musician_Credit_List>Bhadz</Musician_Credit_List>
+<RELEASECOUNTRY>Worldwide</RELEASECOUNTRY>
+<LABEL>Bhadz / Skye / SKYE Records / Bhadz / Skye / SKYE Records</LABEL>
+<LABELNO>233115 / 233114 / 233116</LABELNO>
+<LICENSE>M003AW / M003AW</LICENSE>
+<LOCATION>Philippines / Philippines</LOCATION>
+<ORGANIZATION>Bhadz / Bhadz</ORGANIZATION>
+<PRODUCER>Bhadz</PRODUCER>
+<RECORDINGDATE>2025</RECORDINGDATE>
+<VERSION>Original</VERSION>
+<ORIGINALALBUM>Shattered Frames</ORIGINALALBUM>
+<ORIGINALARTIST>Bhadz</ORIGINALARTIST>
+<ORIGINALDATE>2025</ORIGINALDATE>
+<RELEASEDATE>2025-09-16</RELEASEDATE>
+<REMIXER>Bhadz</REMIXER>
+<SOURCEMEDIA> Audio</SOURCEMEDIA>
+<WEBSITE>https://bhadz.link</WEBSITE>
+<WORK>Bhadz</WORK>
+</extra>
+</track>
+<track type="Audio">
+<Format>FLAC</Format>
+<Duration>183.830</Duration>
+<BitRate_Mode>VBR</BitRate_Mode>
+<BitRate>1840517</BitRate>
+<Channels>2</Channels>
+<ChannelPositions>Front: L R</ChannelPositions>
+<ChannelLayout>L R</ChannelLayout>
+<SamplingRate>48000</SamplingRate>
+<SamplingCount>8823829</SamplingCount>
+<BitDepth>24</BitDepth>
+<Compression_Mode>Lossless</Compression_Mode>
+<StreamSize>42292778</StreamSize>
+<Encoded_Library>reference libFLAC 1.3.2 20170101</Encoded_Library>
+<Encoded_Library_Name>libFLAC</Encoded_Library_Name>
+<Encoded_Library_Version>1.3.2</Encoded_Library_Version>
+<Encoded_Library_Date>2017-01-01</Encoded_Library_Date>
+<Language>en</Language>
+<extra>
+<MD5_Unencoded>44F352A167014DDA3D555F4152D2D3BC</MD5_Unencoded>
+</extra>
+</track>
+<track type="Image">
+<Type>Cover</Type>
+<Format>JPEG</Format>
+<MuxingMode>FLAC Picture</MuxingMode>
+<Width>3000</Width>
+<Height>3000</Height>
+<ColorSpace>YUV</ColorSpace>
+<ChromaSubsampling>4:2:0</ChromaSubsampling>
+<BitDepth>8</BitDepth>
+<Compression_Mode>Lossy</Compression_Mode>
+<StreamSize>504040</StreamSize>
+<extra>
+<ColorSpace_ICC>RGB</ColorSpace_ICC>
+<colour_primaries_ICC_Description>sRGB</colour_primaries_ICC_Description>
+</extra>
+</track>
+</media>
+</MediaInfo>
